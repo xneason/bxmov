@@ -72,7 +72,7 @@ html,body,
 	line-height:75px
 }
 .container .content .header-right .header-links .unmute{
-	background-image:url(../../images/unmute.png);
+	background-image:url(/unmute.png);
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:cover;
